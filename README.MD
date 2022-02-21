@@ -2,7 +2,7 @@
 
 ![](img/huda.png)
 
-I'am philosopher and code craftsman who is passionate about making contributing to open-source more approachable, building community, and creating technology to solve the problem. 4 years of experience working in the technology industry. My work focuses on Data and Backend Architecture. Easily adapt to new things.
+I'am philosopher and code craftsman who is passionate about making contributing to open-source more approachable, building community, and creating technology to solve the problem. 5 years of experience working in the technology industry. My work focuses on Data and Backend Architecture. Easily adapt to new things.
 
 ## Most preferred technology
 
